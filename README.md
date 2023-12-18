@@ -5,4 +5,4 @@ Welcome to my first ever end-to-end web application project Bug Tracking System 
 ## A Small Description
 This project was created to explore and learn web development using PHP, HTML, CSS while implementing a basic CRUD (Create, Read, Update, Delete) functionality.
 
-## Get code locally
+## Clone and Run
